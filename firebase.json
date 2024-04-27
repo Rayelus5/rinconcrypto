@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "rinconcrypto",
+    "public": "./",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
